@@ -10,7 +10,7 @@ body{
 } 
 
 h1{
-    font-size: 3.5rem;
+    font-size: 4rem;
     color: #ffffc7;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 }
@@ -76,7 +76,7 @@ h1{
 }
 
 #msg{
-    font-size: 7vmin;
+    font-size: 9vmin;
     color: #ffffc7;
 }
 
@@ -104,3 +104,4 @@ h1{
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
     transform: scale(1.1);
 }
+
